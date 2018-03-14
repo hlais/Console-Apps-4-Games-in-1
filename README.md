@@ -6,10 +6,10 @@
 
 <b>Description:</b>
 - v1.0 
--Hang man
--Knots and Crosses
--Numbe Guessing Games,
+- Hang man
+- Knots and Crosses
+- Numbe Guessing Games
 - Arrange the numbers games
 
-* <b>Future Updates</b> 
+* <b>Future Updates to come:</b> 
 - total high score will result to end state. Win Screen
