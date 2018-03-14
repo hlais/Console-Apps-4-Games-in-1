@@ -1,0 +1,21 @@
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.deps.json
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.runtimeconfig.json
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.runtimeconfig.dev.json
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.dll
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.pdb
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.csprojResolveAssemblyReference.cache
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.csproj.CoreCompileInputs.cache
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.AssemblyInfo.cs
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.dll
+C:\Users\halim\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.pdb
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.deps.json
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.runtimeconfig.json
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.runtimeconfig.dev.json
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.dll
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\bin\Debug\netcoreapp1.1\ConsoleAppGames.pdb
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.AssemblyInfoInputs.cache
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.AssemblyInfo.cs
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.dll
+C:\Users\Isolated Gamerz\source\repos\ConsoleAppGames\ConsoleAppGames\obj\Debug\netcoreapp1.1\ConsoleAppGames.pdb
