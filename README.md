@@ -6,9 +6,9 @@
 
 <b>Description:</b>
 - v1.0 
-- Hang man
+- Hang Man
 - Knots and Crosses
-- Numbe Guessing Games
+- Number Guessing Game
 - Arrange the numbers games
 
 * <b>Future Updates to come:</b> 
